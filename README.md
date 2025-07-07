@@ -1,0 +1,1 @@
+# AI-Powered-Snowflake-Data-Model-Generator
